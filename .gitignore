@@ -1,0 +1,6 @@
+ve
+build
+dist
+*.egg-info
+*.pyc
+.tox
